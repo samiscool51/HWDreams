@@ -18,3 +18,4 @@ so i'm releasing the mod even though it's in a unfinished state. better to relea
 the mod is under the GPL v3 licence, so if you wish, you can finish it with your own interpretation of whatever needs to be added, go ahead.\
 i'd love to see other's interpretations of what i wrote so i encourage you.\
 go explore the extra's and resources folder for some inspiration. the extras folder where i stored the raw assets and other things i needed to keep track of. and the resources folder is finished or temporary assets.\
+and yes i used ChatGPT. mainly to help write characters more in line with how they talk. it didn't write any part of the script hand on heart.
