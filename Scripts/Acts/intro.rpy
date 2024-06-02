@@ -1,0 +1,3 @@
+label intro:
+    "intro"
+    return
