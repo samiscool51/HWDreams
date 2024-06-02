@@ -6,7 +6,7 @@ The mod requires two things:
 2. The Highway Blossoms Next Exit DLC.
 
 once both requirements are met, installation of the mod is as follows:
-- download the mod's zip folder from the [releases](test) and unzip it somewhere (such as your desktop or downloads)
+- download the mod's zip folder from the [releases](https://github.com/samiscool51/HWDreams/releases) and unzip it somewhere (such as your desktop or downloads)
 - drag the FOLDER (not zip) of the mod to $Game_location/Highway Blossoms/game/mods\
   (on steam right clicking the game then selecting the "Manage" option then clicking on the "Browse Local Files" will open the game directory. itch.io users are on their own.)
 - done. enjoy whatever is left.
